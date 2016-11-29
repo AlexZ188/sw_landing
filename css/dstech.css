@@ -1,0 +1,16 @@
+.image-left {
+    float:left; /* Выравнивание по левому краю */
+    margin: 20px 20px 20px 0; /* Отступы вокруг картинки */
+
+}
+
+.image-right  {
+    float: right; /* Выравнивание по правому краю  */
+    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+}
+
+.ds-features-item {
+    list-style: square;
+    padding-left: 0;
+    margin: 5px 0;
+}
